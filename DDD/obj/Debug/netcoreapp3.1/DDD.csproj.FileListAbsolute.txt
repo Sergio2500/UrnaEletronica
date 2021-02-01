@@ -1,0 +1,11 @@
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\bin\Debug\netcoreapp3.1\DDD.deps.json
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\bin\Debug\netcoreapp3.1\DDD.dll
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\bin\Debug\netcoreapp3.1\DDD.pdb
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\obj\Debug\netcoreapp3.1\DDD.AssemblyInfoInputs.cache
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\obj\Debug\netcoreapp3.1\DDD.AssemblyInfo.cs
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\obj\Debug\netcoreapp3.1\DDD.dll
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\obj\Debug\netcoreapp3.1\DDD.pdb
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\bin\Debug\netcoreapp3.1\DDD.runtimeconfig.json
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\bin\Debug\netcoreapp3.1\DDD.runtimeconfig.dev.json
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\obj\Debug\netcoreapp3.1\DDD.genruntimeconfig.cache
+C:\Desenvolvimento Web\ProjetoUrnaEletronica\DDD\obj\Debug\netcoreapp3.1\DDD.csproj.CoreCompileInputs.cache
